@@ -127,7 +127,8 @@ text {
 }
 ```
 效果如下
-![22)G6@CVP\]~5PH9SV_1O_F2.png](../_resources/22)G6@CVP]~5PH9SV_1O_F2.png)
+![22)G6@CVP ~5PH9SV_1O_F2](https://user-images.githubusercontent.com/111416724/185726858-5cd40a5d-f0b9-462f-837f-2c89a5c98f6c.png)
+
 
 2.逻辑实现
 首先在区域3对`<view class = 'videoBar'>`组件添加wx : lor属性,改写为循环展示列表，然后在区域3对`<view class =  'videoBar '>`组件添加data-url属性和 bindtap属性。其中 data-url 用于记录每行视频对应的播放地址, bindtap用于触发点击事件。最后在区域1对`< video >`组件添加enable-danmu 和 danmu-btn属性,用于允许发送弹幕和显示“发送弹幕”按钮，以及对颜色进行设置。
@@ -240,20 +241,21 @@ Page({
 })
 ```
 最后效果图如下
-![@CV6QEO(DOC(GRUJ_AVVOJ3.png](../_resources/@CV6QEO(DOC(GRUJ_AVVOJ3.png)
+![@CV6QEO(DOC(GRUJ_AVVOJ3](https://user-images.githubusercontent.com/111416724/185726872-012bfa07-fea7-4bcf-9d8e-f1d12fd00dc6.png)
+
+
 
 ## 三、程序运行结果
 
 列出程序的最终运行结果及截图。
 在手机上进行预览：
 1）可正常切换播放视频
-![AO9$V58B`PLL(U($LPW\]EEE.png](../_resources/AO9$V58B`PLL(U($LPW]EEE.png)
-
-![\]H2)UGAIJW\]_189$D6B}@HK.png](../_resources/]H2)UGAIJW]_189$D6B}@HK.png)
+![AO9$V58B`PLL(U($LPW EEE](https://user-images.githubusercontent.com/111416724/185726879-c778dd04-f948-4011-9afc-656cadf5cc90.png)
+![H2)UGAIJW _189$D6B}@HK](https://user-images.githubusercontent.com/111416724/185726885-b898da5a-9cf4-4d69-a74b-52019e1190b6.png)
 
 2）也可正常发送弹幕
+![PI@I) )TW WONO_VF$0Q2(9](https://user-images.githubusercontent.com/111416724/185726886-b53e4ca6-b48f-447b-89b9-acf2254fc22a.png)
 
-![PI@I)\[)TW\[WONO_VF$0Q2(9.png](../_resources/PI@I)[)TW[WONO_VF$0Q2(9.png)
 
 ## 四、问题总结与体会
 

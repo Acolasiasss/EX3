@@ -1,0 +1,52 @@
+/**index.wxss**/
+
+video {
+  width: 100%;        /*视频组件宽度为100%*/
+  }
+  
+/*区域2:弹幕控制样式*//* 2-1弹幕区域样式*/
+.danmuArea {
+  display: flex;        /*flex模型布局*/
+  flex-direction: row;  /*水平方向排列*/
+}
+/*2-2文本输入框样式*/
+input {
+  border: 1rpx solid #987938; /*1rpx 宽的实线棕色边框*/
+  flex-grow: l;                 /*扩张多余空间宽度*/
+  height: 100rpx;               /*高度*/
+}
+/*2-3按钮样式*/
+button {
+  color: white;               /*字体颜色*/
+  background-color :#f3a109;  /*背景颜色*/
+}
+    
+/*区域3:视频列表样式*/  
+/*3-1视颊列表区域样式*/
+.vidcoList {
+  width: 100%;              /*宽度*/
+  min-height: 400rpx;       /*最小高度*/
+  }
+/*3一2单行列表区域样式*/
+.videoBar {
+  width: 100%;               /*宽度*/
+  display: flex;            /*flex模型布局*/
+  flex-direction: row;      /*水平方向布局*/
+  border-bottom: 1rpx solid #987938;/*1rpx宽的实线棕色边框*/
+  margin: 10rpx;            /*外边距*/
+}
+/* 3一3播放图标样式*/
+image {
+  width: 70rpx;         /*宽度*/
+  height: 70rpx;        /*高度*/
+  margin: 20rpx;        /*外边距*/
+}
+
+/*3一4文本标题样式*/
+text {
+  font-size: 45rpx;     /*字体大小*/
+  color: #987938;      /*字体颜色为棕色*/
+  margin: 20rpx;        /*外边距*/
+  flex-grow: 1;         /*扩张多余空间宽度*/
+}
+    

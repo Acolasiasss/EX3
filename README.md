@@ -127,6 +127,7 @@ text {
 }
 ```
 效果如下
+
 ![22)G6@CVP ~5PH9SV_1O_F2](https://user-images.githubusercontent.com/111416724/185726858-5cd40a5d-f0b9-462f-837f-2c89a5c98f6c.png)
 
 
@@ -241,6 +242,7 @@ Page({
 })
 ```
 最后效果图如下
+
 ![@CV6QEO(DOC(GRUJ_AVVOJ3](https://user-images.githubusercontent.com/111416724/185726872-012bfa07-fea7-4bcf-9d8e-f1d12fd00dc6.png)
 
 
@@ -250,10 +252,13 @@ Page({
 列出程序的最终运行结果及截图。
 在手机上进行预览：
 1）可正常切换播放视频
+
 ![AO9$V58B`PLL(U($LPW EEE](https://user-images.githubusercontent.com/111416724/185726879-c778dd04-f948-4011-9afc-656cadf5cc90.png)
+
 ![H2)UGAIJW _189$D6B}@HK](https://user-images.githubusercontent.com/111416724/185726885-b898da5a-9cf4-4d69-a74b-52019e1190b6.png)
 
 2）也可正常发送弹幕
+
 ![PI@I) )TW WONO_VF$0Q2(9](https://user-images.githubusercontent.com/111416724/185726886-b53e4ca6-b48f-447b-89b9-acf2254fc22a.png)
 
 
